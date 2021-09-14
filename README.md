@@ -9,7 +9,7 @@ The datasets containing information on COVID-19 vaccination rates worldwide were
 This topic was chosen because the ongoing COVID-19 pandemic has had major impacts on communities and economies around the world and vaccines offer hope for reducing the harm posed by the virus to help the world find a way to live with COVID. As such, data describing vaccination rates worldwide has been of much interest as much of the world is eager to end lockdowns and travel restrictions. Presenting information on the current vaccine data provides insight into our current progress and highlights disparities in vaccination rates among different categories and demographics.
 
 ## Using the Dashboard
-https://user-images.githubusercontent.com/61854613/133279030-6f2ad29a-ec1f-401d-b776-e88b4d437b1d.mp4
+https://user-images.githubusercontent.com/61854613/133284936-84f2de2a-4044-4518-96d4-d37d587877e4.mp4
 
 ## Screenshots of the Dashboard
 ![picture alt](home-page.PNG "screenshot showing home page")
