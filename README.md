@@ -12,3 +12,5 @@ The datasets contain information on COVID-19 worldwide vaccination rates and the
 
 ## Key Insights
 As mentioned in the video demonstration of the dashboard, the key insights drawn from the data can be seen on the last page of the report as shown below. 
+
+![alt text](http://url/to/img.png)
