@@ -13,4 +13,6 @@ The datasets contain information on COVID-19 worldwide vaccination rates and the
 ## Key Insights
 As mentioned in the video demonstration of the dashboard, the key insights drawn from the data can be seen on the last page of the report as shown below. 
 
-![alt text](/images/Key-Insights.png)
+![Screenshot of Key Insights page](/images/Key-Insights.png)
+
+The data showed that currently 5.73billion COVID-19 vaccinations had been administered and around 30% of the world's population is fully vaccinated however the data also showed a large disparity in vaccination rates between low income and high income countries which highlights the troubling fact that while high income countries prepare to safely exit lockdowns after reaching vaccination targets, this will likely not be the case for many low income countries for some time. 
