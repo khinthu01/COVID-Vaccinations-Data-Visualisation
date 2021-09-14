@@ -15,8 +15,9 @@ As mentioned in the video demonstration of the dashboard, the key insights drawn
 
 ![Screenshot of Key Insights page](/images/Key-Insights.png)
 
-The data showed that currently 5.73billion COVID-19 vaccinations had been administered and around 30% of the world's population is fully vaccinated however the data also showed a large disparity in vaccination rates between low income and high income countries which highlights the troubling fact that while high income countries prepare to safely exit lockdowns after reaching vaccination targets, this will likely not be the case for many low income countries for some time.
-There were also large differences in vaccination rates between the 65+ age group and under 65 age group, however that was to be expected given the prioritisation of the vulnerable elderly community during vaccine rollouts across the world.
+The data showed that currently 5.73 billion COVID-19 vaccinations had been administered and around 30% of the world's population is fully vaccinated however the data also showed a large disparity in vaccination rates between low income and high income countries which highlights the troubling fact that while high income countries prepare to safely exit lockdowns after reaching vaccination targets, this will likely not be the case for many low income countries for some time.
+There were also large differences in vaccination rates between the 65+ age group and under 65 age group, however that was to be expected given the prioritisation of the vulnerable elderly community during initial vaccine rollouts across the world.
 
 Other insights:
-
+* Pfizer/BioNTech and Moderna are by far the most administered vaccines across the world
+* Despite vaccine rollouts beginning early 2021, a large portion of the vaccination population in many countries have only received one dose - the fraction of fully vaccinated people varies widely across different countries
