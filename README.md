@@ -1,4 +1,4 @@
-# COVID Vaccinations Data Visualisation Dashboards
+# COVID-19 Vaccinations Data Visualisation Dashboards
 
 ## Description of the Project
 The data visualisations were created using Power BI desktop and was made for the Power BI Project as part of the  Microsoft Student Accelerator Program. There Power BI report file consists of three pages which convey global COVID-19 vaccination data broken down by countries, country income levels, vaccine manufacturer, date and age. 
